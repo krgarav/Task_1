@@ -1,0 +1,17 @@
+
+.box1 {
+  margin-top: 20px;
+  padding: 10px;
+}
+.box1 h5 {
+  margin: 20px;
+  color: rgb(77, 77, 219);
+}
+.box1 h1 {
+  margin: 20px;
+  font-weight: 700;
+}
+.box1 p {
+  margin: 20px;
+  color: grey;
+}

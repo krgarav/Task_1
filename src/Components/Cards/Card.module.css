@@ -1,0 +1,31 @@
+.box {
+  width: 350px;
+  padding: 1.2rem;
+  border-radius: 10px;
+  border: 2px solid blue;
+  margin: 20px 5px;
+}
+.box:hover {
+  border: 2px solid rgb(43, 192, 230);
+}
+
+.heading {
+  text-align: center;
+}
+.btn {
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(41, 41, 233);
+  color: white;
+  border: none;
+}
+.btn:hover {
+  background-position: -100% 0;
+  background: linear-gradient(to left, red 50%, blue 50%) right;
+  background-size: 200% 100%;
+  transition: background-position 0.5s;
+}
+p{
+  color: rgb(77, 77, 77);
+}
